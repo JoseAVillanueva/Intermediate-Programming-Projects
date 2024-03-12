@@ -1,0 +1,33 @@
+Enter a card: AS
+Enter a card: 2C
+Enter a card: 4H
+Enter a card: 3D
+Enter a card: 5D
+
+Hand: AS 2C 4H 3D 5D: Straight
+
+Run Again (Y/N): Y
+
+Enter a card: 8C
+Enter a card: AS
+Enter a card: 8C
+Duplicate Card. Try Again.
+Enter a card: 7C
+Enter a card: AD
+Enter a card: 3H
+
+Hand: 8C AS 7C AD 3H: Pair
+
+Run Again (Y/N): Y
+
+Enter a card: 6S
+Enter a card: 9C
+Enter a card: D2
+Bad Card. Try Again.
+Enter a card: 2D
+Enter a card: 4H
+Enter a card: TS
+
+Hand: 6S 9C 2D 4H TS: High Card
+
+Run Again (Y/N): n
